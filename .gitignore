@@ -3,3 +3,5 @@ bin
 obj
 out
 target
+node_modules
+
